@@ -30,7 +30,27 @@ const words = [
   'admit',
   'drag',
   'loving',
-  'edible'
+  'edible',
+  'publicity',
+  'trance',
+  'reactor',
+  'offer',
+  'station',
+  'marble',
+  'pepper',
+  'touch',
+  'love',
+  'broken',
+  'leaflet',
+  'amputate',
+  'governance',
+  'insurance',
+  'hunting'
+  'book',
+  'cart',
+  'mist',
+  'main',
+  'museum'
 ];
 
 // Init word
