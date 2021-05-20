@@ -29,7 +29,8 @@ const words = [
   'feeble',
   'admit',
   'drag',
-  'loving'
+  'loving',
+  'edible'
 ];
 
 // Init word
